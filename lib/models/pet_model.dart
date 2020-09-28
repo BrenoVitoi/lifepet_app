@@ -42,4 +42,4 @@ var pets = [
     bio: "Sou um pastor elétrico",
     id: "2"
   ),
-]
+];
